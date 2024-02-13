@@ -15,7 +15,7 @@ Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcion
 - Visualizar a página do carrinho
 - Deletar itens do carrinho
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
+O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev)!
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
